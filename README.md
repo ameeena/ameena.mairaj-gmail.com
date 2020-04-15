@@ -1,2 +1,2 @@
-# ameena.mairaj-gmail.com
+# library
 my-library
