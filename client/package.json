@@ -15,7 +15,7 @@
     "@vx/mock-data": "0.0.195",
     "@vx/scale": "0.0.195",
     "@vx/shape": "0.0.195",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "concurrently": "^5.1.0",
     "keymirror": "^0.1.1",
     "lodash": "^4.17.15",
